@@ -9,6 +9,7 @@ public class CILab implements CILabInterface {
     }
 
     @Override
+    //test
     public void setString(String string) {
         myString = string;
     }
